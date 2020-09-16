@@ -16,6 +16,10 @@ A few suggestions, in no particular order, to deliver a technical assignment:
 
    It should be in the root folder and should contain a brief description, tech stack, setup instructions, and any other information you deem relevant.
 
+1. **Remember to commit `.gitignore` file**
+
+   Anybody cloning your repository should retain this information.
+
 1. **Be accountable for technical decisions**
 
    You should be able to explain any technical choice you made.
