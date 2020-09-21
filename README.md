@@ -30,6 +30,6 @@ A few suggestions, in no particular order, to deliver a technical assignment:
 
    You should be able to explain any technical choice you made.
 
-1. **First things first**
+1. **Branding**
 
    Use company's brand and colour palette, it's always well received.
