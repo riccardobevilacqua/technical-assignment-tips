@@ -2,6 +2,12 @@
 
 A few suggestions, in no particular order, to deliver a technical assignment:
 
+1. **First things first**
+
+   Focus on architecture and basic functionalities.
+
+   Only then, if you have time, add new features to impress the company.
+
 1. **Read the requirements thoroughly multiple times**
 
    Technical assignments are designed to be small, hence they often introduce assumptions and simplifications that would not be present in a real project.
@@ -23,3 +29,7 @@ A few suggestions, in no particular order, to deliver a technical assignment:
 1. **Be accountable for technical decisions**
 
    You should be able to explain any technical choice you made.
+
+1. **First things first**
+
+   Use company's brand and colour palette, it's always well received.
