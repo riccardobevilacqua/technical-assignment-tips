@@ -4,7 +4,7 @@
 
 As a mentor of [Hack Your Future](https://www.hackyourfuture.net/) I took some notes about topics or details some students might struggle with when they face a technical assignment for the first time.
 
-The intended audience is therefore people coming from different backgrounds and possibly with little to no experience of software engineering.
+Some tips might seem trivial, but address concerns some HYF graduates might have.
 
 ## Tips
 
