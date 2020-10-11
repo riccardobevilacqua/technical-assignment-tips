@@ -1,5 +1,13 @@
 # Technical Assignment Tips
 
+## Introduction
+
+As a mentor of [Hack Your Future](https://www.hackyourfuture.net/) I took some notes about topics or details some students might struggle with when they face a technical assignment for the first time.
+
+The intended audience is therefore people coming from different backgrounds and possibly with little to no experience of software engineering.
+
+## Tips
+
 A few suggestions, in no particular order, to deliver a technical assignment:
 
 1. **First things first**
@@ -41,6 +49,10 @@ A few suggestions, in no particular order, to deliver a technical assignment:
 1. **Branding**
 
    Use company's brand and colour palette, it's always well received.
+
+## Example
+
+Check out [this example](https://github.com/salih18/MERN-Todo-App) of implementation from a Hack Your Future postgrad.
 
 ## Contribute
 
